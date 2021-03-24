@@ -1,7 +1,12 @@
 ### Hi there 👋
 
----
+
+<div align="center">
+  
 [![HitCount](http://hits.dwyl.com/itCarl/ItCarl.svg)](http://hits.dwyl.com/itCarl/ItCarl)
+
+</div>
+
 
 <!--
 **itCarl/itCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
