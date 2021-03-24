@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+---
 [![HitCount](http://hits.dwyl.com/itCarl/ItCarl.svg)](http://hits.dwyl.com/itCarl/ItCarl)
 
 <!--
