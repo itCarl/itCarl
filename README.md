@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itCarl&show_icons=true&count_private=true&bg_color=10,005bff,904e95&title_color=fff&text_color=fff&theme=cobalt2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itCarl&layout=compact&theme=codeSTACKr)
 <!--
 <div align="center">
   
