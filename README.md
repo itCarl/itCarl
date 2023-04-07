@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+![Header](assets/github-header-image.png)
+
 <br><br>
 
 ![view counter](https://komarev.com/ghpvc/?username=itCarl&style=flat-square&style=flat-square&color=red&label=Look+at+my+Profile+views:)
