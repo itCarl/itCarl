@@ -8,11 +8,15 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itCarl&show_icons=true&count_private=true&bg_color=10,005bff,904e95&title_color=fff&text_color=fff&theme=cobalt2" alt="itCarl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itCarl&show_icons=true&count_private=true&bg_color=90,22272e,22272e&title_color=fff&text_color=fff&theme=dark" alt="itCarl" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itCarl&layout=compact&theme=codeSTACKr" alt="itCarl" />
 </p>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlubberLounge&repo=Shisha-Tools&bg_color=90,22272e,22272e&title_color=fff&text_color=fff&theme=dark)](https://github.com/BlubberLounge/EventManager) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itCarl&repo=WLED-Community-Themes)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/itCarl/WLED-Community-Themes))
 
 <br>
 
@@ -28,18 +32,20 @@
 
 <br>
 
-![view counter](https://komarev.com/ghpvc/?username=itCarl&style=flat-square&style=flat-square&color=red&label=Look+at+my+Profile+views:)
-
 ---
+
 <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=itCarl&style=flat-square&style=flat-square&color=red&label=Look+at+my+Profile+views:" alt="view counter"></img>
+   <br>  
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
-<br>
-<a target="_blank" href="https://maximilian-mewes.de/"><img src="https://img.shields.io/badge/-PORTFOLIO-12100E?style=for-the-badge&logo=Google&logoColor=white"></img></a>	
-
-</p>  
+   <br>
+   <a target="_blank" href="https://maximilian-mewes.de/">
+     <img src="https://img.shields.io/badge/-PORTFOLIO-12100E?style=for-the-badge&logo=Google&logoColor=white"></img>
+   </a>
+</p>
 
 <!--
 **itCarl/itCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
