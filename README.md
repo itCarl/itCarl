@@ -1,6 +1,6 @@
 ---
 
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 ![Header](assets/profilebanner.png)
 
