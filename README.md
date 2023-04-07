@@ -1,15 +1,18 @@
 ---
 
 <!-- ## Hi there 👋 -->
-
-![Header](assets/profilebanner.png)
-
+<p align="center">
+  <!-- ![Header](assets/profilebanner.png) -->
+  <img src="assets/profilebanner.png" alt="itCarl profile banner" />
+</p>
 <br><br>
 
-<div align="center" style="display: flex;align-items:center;justify-content:center">  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itCarl&show_icons=true&count_private=true&bg_color=10,005bff,904e95&title_color=fff&text_color=fff&theme=cobalt2" alt="itCarl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itCarl&layout=compact&theme=codeSTACKr" alt="itCarl" />
-</div>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itCarl&layout=compact&theme=codeSTACKr" alt="itCarl" />
+</p>
 
 <br>
 
