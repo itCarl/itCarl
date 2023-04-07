@@ -16,7 +16,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlubberLounge&repo=Shisha-Tools&bg_color=90,22272e,22272e&title_color=fff&text_color=fff&theme=dark)](https://github.com/BlubberLounge/EventManager) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itCarl&repo=WLED-Community-Themes)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/itCarl/WLED-Community-Themes))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlubberLounge&repo=Shisha-Tools&bg_color=90,283A3B,283A3B&title_color=fff&text_color=fff&theme=dark)](https://github.com/BlubberLounge/EventManager) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itCarl&repo=WLED-Community-Themes&bg_color=90,283A3B,283A3B&title_color=fff&text_color=fff&theme=dark)](https://github.com/itCarl/WLED-Community-Themes)
 
 <br>
 
