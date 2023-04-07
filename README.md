@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![Header](assets/github-header-image.png)
+![Header](assets/profilebanner.png)
 
 <br><br>
 
