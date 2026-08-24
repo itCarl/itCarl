@@ -1,0 +1,28 @@
+# Generates the stats cards in README.md and commits them into this repository.
+# Run it once by hand (Actions -> this workflow -> "Run workflow") before the new
+# README goes live, otherwise the card images 404 until the first scheduled run.
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily, 03:00 UTC
+  workflow_dispatch: # manual trigger from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # The built-in GITHUB_TOKEN is read-only by default; the action needs to
+      # push the generated SVGs back to this repository.
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # This repository's default branch is master, not main.
+          BRANCH_NAME: "master"
+          # Shifts the "productive time" card into local time (CET/CEST).
+          UTC_OFFSET: 2
