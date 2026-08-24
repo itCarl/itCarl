@@ -15,7 +15,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
-    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="itCarl profile details" />
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="itCarl profile details" height="150" />
   </picture>
 </p>
 
@@ -23,12 +23,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
-    <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Commit, issue and pull request stats" height="200" />
+    <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Commit, issue and pull request stats" height="150" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
-    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" height="200" />
+    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" height="150" />
   </picture>
 </p>
 
@@ -36,12 +36,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg" />
-    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" height="200" />
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" height="150" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg" />
-    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time of day" height="200" />
+    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time of day" height="150" />
   </picture>
 </p>
 
@@ -64,10 +64,7 @@
 
 ### Currently working on
 
-- **[LumoX](https://github.com/itCarl/LumoX-app)** &mdash; wireless DMX lighting controller for Windows, driving ESP32 nodes over the network ([firmware](https://github.com/itCarl/LumoX-firmware) &middot; [viewer](https://github.com/itCarl/LumoX-Viewer) &middot; [enclosures](https://github.com/itCarl/LumoX-3DP))
-- **[obsidian-project-manager](https://github.com/itCarl/obsidian-project-manager)** &mdash; Obsidian plugin for 3D printing project management, wired up to Spoolman
-- **[BlubberLounge/Tools](https://github.com/BlubberLounge/Tools)** &mdash; a collection of more or less useful tools and management software, written with Laravel
-- **[WLED-Community-Themes](https://github.com/itCarl/WLED-Community-Themes)** &mdash; give your WLED installation a new cool customized look
+- TBD
 
 <br>
 
